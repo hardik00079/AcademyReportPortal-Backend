@@ -1,7 +1,7 @@
 # AcademyReportPortal-Backend
 
-Role - Account Manager
-Role - Instructor
+Role - Account Manager,
+Role - Instructor,
 Role - Trainee
 
 Account Manager can see Instructor generated detailed reports of trainees, so they can shortlist tyrainee for spacific role
